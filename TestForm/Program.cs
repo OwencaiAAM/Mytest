@@ -10,7 +10,7 @@ namespace TestForm
     {
         /// <summary>
         /// 应用程序的主入口点。
-	///fuck Liaohua
+	///fuck ali
         /// </summary>
         [STAThread]
         static void Main()
